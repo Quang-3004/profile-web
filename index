@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phạm Hoàng Đăng Quang</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="profile-card">
+    <img src="images/avatar.jpg" alt="Ảnh đại diện" class="avatar">
+    <h1>Phạm Hoàng Đăng Quang</h1>
+    <p class="job-title">Web Developer | UI/UX Enthusiast</p>
+    <p>Tôi là một lập trình viên đam mê thiết kế và phát triển ứng dụng web hiện đại.</p>
+    <div class="socials">
+      <a href="https://github.com/your-github" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+</body>
+</html>
